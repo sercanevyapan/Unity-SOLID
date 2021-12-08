@@ -1152,3 +1152,4 @@ Received Import Request.
 Start importing Assets/Scripts/ShipParticles.cs using Guid(b576c69e3fb071f429fc406eef004f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af8cb43844410b9eaad420e0cd0e9b1') in 0.055356 seconds 
   Import took 0.084713 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
