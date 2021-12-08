@@ -1,2 +1,2 @@
-# Unity Solid- Single Responsibility Principle
+# Unity Solid
  
